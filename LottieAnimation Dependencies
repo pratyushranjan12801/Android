@@ -1,0 +1,3 @@
+
+// Change the lottie version according to the update
+implementation 'com.airbnb.android:lottie:4.2.2'
